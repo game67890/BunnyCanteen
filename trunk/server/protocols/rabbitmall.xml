@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 兔子商城-->
+<namespace name="rabbitmall">
+    <!-- 购买 -->
+    <protocol name="cbuy">
+           <variable name="confId" type="int" /> 策划表的id 买哪个
+    </protocol>
+
+    <protocol name="sbuy" >
+      <variable name="confId" type="int" /> 策划表的id 买哪个
+    </protocol>
+</namespace>

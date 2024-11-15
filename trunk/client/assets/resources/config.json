@@ -1,0 +1,28 @@
+{
+  "config": {
+    "version": "1.0.5",
+    "package": "com.tongame.game",
+    "localDataKey": "minigamekey",
+    "localDataIv": "tongameiv",
+    "httpServer": "http://10.237.87.80:22050/",
+    "httpTimeout": 10000,
+    "frameRate": 60
+  },
+  "language": {
+    "type": [
+      "zh",
+      "en"
+    ],
+    "path": {
+      "json": "language/json",
+      "texture": "language/texture",
+      "spine": ""
+    }
+  },
+  "bundle": {
+    "enable": false,
+    "server": "http://localhost:8083/assets/bundle",
+    "name": "bundle",
+    "version": ""
+  }
+}

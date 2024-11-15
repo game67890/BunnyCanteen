@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "rank",
+    "spriteFrames": [
+      "dier",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@8a978",
+      "disan",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@f7dde",
+      "diyi",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@6e594",
+      "numdi",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@bdc03",
+      "rankdi",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@5ead2",
+      "ranktiao",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@c9457",
+      "timedi",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@af7c9",
+      "toptiao",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@90de3",
+      "touxiang",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@c536c",
+      "wupaiming",
+      "79626d41-7fe3-4e7d-b900-2ce1c6ee37be@1e39e"
+    ]
+  }
+}

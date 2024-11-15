@@ -1,0 +1,224 @@
+2024-11-4 17:38:01-log: Cannot access game frame or container.
+2024-11-4 17:38:02-debug: asset-db:require-engine-code (2769ms)
+2024-11-4 17:38:02-log: meshopt wasm decoder initialized
+2024-11-4 17:38:02-log: [bullet]:bullet wasm lib loaded.
+2024-11-4 17:38:02-log: [box2d]:box2d wasm lib loaded.
+2024-11-4 17:38:03-log: Cocos Creator v3.8.3
+2024-11-4 17:38:03-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:24.87MB, end 77.77MB, increase: 52.90MB
+2024-11-4 17:38:08-debug: [Assets Memory track]: asset-db-plugin-register: builder start:82.06MB, end 167.18MB, increase: 85.12MB
+2024-11-4 17:38:03-debug: [Assets Memory track]: asset-db-plugin-register: programming start:78.54MB, end 82.04MB, increase: 3.49MB
+2024-11-4 17:38:08-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:77.78MB, end 170.59MB, increase: 92.81MB
+2024-11-4 17:38:08-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:167.40MB, end 170.50MB, increase: 3.10MB
+2024-11-4 17:38:08-debug: [Assets Memory track]: asset-db-plugin-register: project start:78.41MB, end 170.57MB, increase: 92.16MB
+2024-11-4 17:38:08-debug: asset-db:worker-init: initPlugin (5048ms)
+2024-11-4 17:38:08-debug: [Assets Memory track]: asset-db:worker-init start:24.86MB, end 170.71MB, increase: 145.85MB
+2024-11-4 17:38:08-debug: Run asset db hook programming:beforePreStart ...
+2024-11-4 17:38:08-debug: Run asset db hook programming:beforePreStart success!
+2024-11-4 17:38:08-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-11-4 17:38:08-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-11-4 17:38:08-debug: asset-db:worker-init (8558ms)
+2024-11-4 17:38:08-debug: asset-db-hook-programming-beforePreStart (207ms)
+2024-11-4 17:38:08-debug: asset-db-hook-engine-extends-beforePreStart (207ms)
+2024-11-4 17:38:08-debug: Preimport db internal success
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\config\gamebackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UIbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\acceleratedbuffbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\paymentbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\jiasubackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobobackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\hechengbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\rankbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\shopbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\renwubackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\shouyibackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\yaoqingbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\weishibackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\rolebackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zhifubackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zidongbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobobackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\shopbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\acceleratedbuff\AcceleratedBuffMain.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\payment\PaymentListItem.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:08-debug: Preimport db assets success
+2024-11-4 17:38:08-debug: Preimport db oops-framework success
+2024-11-4 17:38:08-debug: Run asset db hook programming:afterPreStart ...
+2024-11-4 17:38:08-debug: starting packer-driver...
+2024-11-4 17:38:14-debug: initialize scripting environment...
+2024-11-4 17:38:14-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-11-4 17:38:14-debug: Run asset db hook programming:afterPreStart success!
+2024-11-4 17:38:14-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-11-4 17:38:14-debug: Start up the 'internal' database...
+2024-11-4 17:38:14-debug: [Assets Memory track]: asset-db:worker-init: preStart start:170.72MB, end 173.00MB, increase: 2.28MB
+2024-11-4 17:38:14-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-11-4 17:38:15-debug: asset-db-hook-programming-afterPreStart (6592ms)
+2024-11-4 17:38:15-debug: asset-db:worker-effect-data-processing (528ms)
+2024-11-4 17:38:15-debug: asset-db-hook-engine-extends-afterPreStart (528ms)
+2024-11-4 17:38:15-debug: Start up the 'assets' database...
+2024-11-4 17:38:15-debug: asset-db:worker-startup-database[internal] (7633ms)
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\config\game\Language.jsonbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\config\game\Pay.jsonbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\baluobo.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\jiangli.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\baochou.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\rank.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\rule.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\hecheng\hecheng.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\hecheng\Guide.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\zidong.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\jiasu\jiasu.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:15-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\rank\rank.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\renwu\renwu.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\renwu\renwucell2.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\renwu\renwucell3.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\renwu\renwucell4.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\role\TuziCoin.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\shop\shop.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\shop\shopcell.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\shouyi\shouyi.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\weishi\weishi.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\yaoqing\yaoqing.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\yaoqing\yaoqing1.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\yaoqing\yaoqingcell1.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zhifu\zhifu.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zhifu\zhifucell.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zhifu\zhifutips.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zhifu\zhifutips1.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zidong\zidong.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zidong\zidongtips.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plistbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@83058background: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@40c10background: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@6f7a3background: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@d131abackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@6a8a6background: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@3513fbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@c2863background: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@ea68ebackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\textures\UI\baluobo\baluobo.plist@348cdbackground: #aaff85; color: #000;color: #000;
+2024-11-4 17:38:16-debug: Start up the 'oops-framework' database...
+2024-11-4 17:38:16-debug: asset-db:worker-startup-database[assets] (7836ms)
+2024-11-4 17:38:16-debug: lazy register asset handler *
+2024-11-4 17:38:16-debug: lazy register asset handler directory
+2024-11-4 17:38:16-debug: lazy register asset handler spine-data
+2024-11-4 17:38:16-debug: lazy register asset handler dragonbones
+2024-11-4 17:38:16-debug: lazy register asset handler json
+2024-11-4 17:38:16-debug: lazy register asset handler dragonbones-atlas
+2024-11-4 17:38:16-debug: lazy register asset handler terrain
+2024-11-4 17:38:16-debug: lazy register asset handler typescript
+2024-11-4 17:38:16-debug: lazy register asset handler scene
+2024-11-4 17:38:16-debug: lazy register asset handler prefab
+2024-11-4 17:38:16-debug: lazy register asset handler sprite-frame
+2024-11-4 17:38:16-debug: lazy register asset handler tiled-map
+2024-11-4 17:38:16-debug: lazy register asset handler buffer
+2024-11-4 17:38:16-debug: lazy register asset handler image
+2024-11-4 17:38:16-debug: lazy register asset handler text
+2024-11-4 17:38:16-debug: lazy register asset handler sign-image
+2024-11-4 17:38:16-debug: lazy register asset handler alpha-image
+2024-11-4 17:38:16-debug: lazy register asset handler texture-cube
+2024-11-4 17:38:16-debug: lazy register asset handler javascript
+2024-11-4 17:38:16-debug: lazy register asset handler erp-texture-cube
+2024-11-4 17:38:16-debug: lazy register asset handler texture-cube-face
+2024-11-4 17:38:16-debug: lazy register asset handler render-texture
+2024-11-4 17:38:16-debug: lazy register asset handler rt-sprite-frame
+2024-11-4 17:38:16-debug: lazy register asset handler gltf-mesh
+2024-11-4 17:38:16-debug: lazy register asset handler gltf
+2024-11-4 17:38:16-debug: lazy register asset handler texture
+2024-11-4 17:38:16-debug: lazy register asset handler gltf-animation
+2024-11-4 17:38:16-debug: lazy register asset handler gltf-scene
+2024-11-4 17:38:16-debug: lazy register asset handler gltf-embeded-image
+2024-11-4 17:38:16-debug: lazy register asset handler fbx
+2024-11-4 17:38:16-debug: lazy register asset handler material
+2024-11-4 17:38:16-debug: lazy register asset handler gltf-material
+2024-11-4 17:38:16-debug: lazy register asset handler physics-material
+2024-11-4 17:38:16-debug: lazy register asset handler effect-header
+2024-11-4 17:38:16-debug: lazy register asset handler effect
+2024-11-4 17:38:16-debug: lazy register asset handler gltf-skeleton
+2024-11-4 17:38:16-debug: lazy register asset handler animation-clip
+2024-11-4 17:38:16-debug: lazy register asset handler animation-graph
+2024-11-4 17:38:16-debug: lazy register asset handler animation-mask
+2024-11-4 17:38:16-debug: lazy register asset handler animation-graph-variant
+2024-11-4 17:38:16-debug: lazy register asset handler audio-clip
+2024-11-4 17:38:16-debug: lazy register asset handler ttf-font
+2024-11-4 17:38:16-debug: lazy register asset handler sprite-atlas
+2024-11-4 17:38:16-debug: lazy register asset handler particle
+2024-11-4 17:38:16-debug: lazy register asset handler auto-atlas
+2024-11-4 17:38:16-debug: lazy register asset handler label-atlas
+2024-11-4 17:38:16-debug: lazy register asset handler render-stage
+2024-11-4 17:38:16-debug: lazy register asset handler render-pipeline
+2024-11-4 17:38:16-debug: lazy register asset handler bitmap-font
+2024-11-4 17:38:16-debug: lazy register asset handler instantiation-material
+2024-11-4 17:38:16-debug: lazy register asset handler render-flow
+2024-11-4 17:38:16-debug: lazy register asset handler instantiation-skeleton
+2024-11-4 17:38:16-debug: lazy register asset handler instantiation-animation
+2024-11-4 17:38:16-debug: lazy register asset handler video-clip
+2024-11-4 17:38:16-debug: lazy register asset handler instantiation-mesh
+2024-11-4 17:38:16-debug: asset-db:worker-startup-database[oops-framework] (7725ms)
+2024-11-4 17:38:16-debug: asset-db:ready (21028ms)
+2024-11-4 17:38:16-debug: asset-db:start-database (8200ms)
+2024-11-4 17:38:16-debug: init worker message success
+2024-11-4 17:38:17-log: [build-plugin] Load cocos plugin example in builder.
+2024-11-4 17:38:17-debug: programming:execute-script (8ms)
+2024-11-4 17:38:18-debug: [Build Memory track]: builder:worker-init start:170.86MB, end 178.73MB, increase: 7.87MB
+2024-11-4 17:38:18-debug: builder:worker-init (1532ms)
+2024-11-4 17:38:41-debug: Query all assets info in project
+2024-11-4 17:38:41-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-11-4 17:38:41-debug: // ---- build task Query asset bundle ----
+2024-11-4 17:38:41-debug: Query asset bundle start, progress: 0%
+2024-11-4 17:38:41-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-11-4 17:38:41-debug:   Number of other assets: 2376
+2024-11-4 17:38:41-debug:   Number of all scripts: 278
+2024-11-4 17:38:41-debug:   Number of all scenes: 1
+2024-11-4 17:38:41-debug: // ---- build task Query asset bundle ---- (107ms)
+2024-11-4 17:38:41-debug: run build task Query asset bundle success in 107 ms√, progress: 5%
+2024-11-4 17:38:41-debug: Query asset bundle start, progress: 5%
+2024-11-4 17:38:41-debug: [Build Memory track]: Query asset bundle start:167.94MB, end 169.40MB, increase: 1.45MB
+2024-11-4 17:38:41-debug: // ---- build task Query asset bundle ----
+2024-11-4 17:38:41-debug: // ---- build task Query asset bundle ---- (6ms)
+2024-11-4 17:38:41-debug: run build task Query asset bundle success in 6 ms√, progress: 10%
+2024-11-4 17:38:41-debug: [Build Memory track]: Query asset bundle start:169.41MB, end 169.84MB, increase: 440.89KB
+2024-11-4 17:38:41-debug: Sort some build options to settings.json start, progress: 10%
+2024-11-4 17:38:41-debug: // ---- build task Sort some build options to settings.json ----
+2024-11-4 17:38:41-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2024-11-4 17:38:41-debug: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2024-11-4 17:38:41-debug: [Build Memory track]: Sort some build options to settings.json start:169.86MB, end 169.87MB, increase: 16.86KB
+2024-11-4 17:38:41-debug: Fill script data to settings start, progress: 12%
+2024-11-4 17:38:41-debug: // ---- build task Fill script data to settings ----
+2024-11-4 17:38:41-debug: run build task Fill script data to settings success in √, progress: 13%
+2024-11-4 17:38:41-debug: [Build Memory track]: Fill script data to settings start:169.89MB, end 169.90MB, increase: 16.40KB
+2024-11-4 17:38:41-debug: Sort some build options to settings.json start, progress: 13%
+2024-11-4 17:38:41-debug: // ---- build task Sort some build options to settings.json ----
+2024-11-4 17:38:41-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2024-11-4 17:38:41-debug: run build task Sort some build options to settings.json success in 2 ms√, progress: 15%
+2024-11-4 17:38:41-debug: [Build Memory track]: Sort some build options to settings.json start:170.15MB, end 170.21MB, increase: 59.53KB
+2024-11-5 10:19:23-debug: refresh db internal success
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\invitebackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\managerbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\pullingcarrotsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\rankbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\paymentbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobobackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\rankbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\yaoqingbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zhifubackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\renwubackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\invite\Inviteactivity.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\manager\UtilManager.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\payment\PaymentComponent.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\pullingcarrots\CarrotComponent.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\payment\PaymentListItem.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\pullingcarrots\CarrotRewardComponent.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\scripts\tongame\rank\RankListItem.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\baluobo.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\baluobo\jiangli.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\rank\rankcell.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\renwu\renwu.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\yaoqing\yaoqing1.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:23-debug: %cImport%c: F:\TON-Game\src\trunk\client\assets\resources\prefab\ui\zhifu\zhifucell.prefabbackground: #aaff85; color: #000;color: #000;
+2024-11-5 10:19:24-debug: refresh db assets success
+2024-11-5 10:19:24-debug: refresh db oops-framework success
+2024-11-5 10:19:24-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-11-5 10:19:24-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-11-5 10:19:24-debug: asset-db:refresh-all-database (819ms)
+2024-11-5 10:19:24-debug: asset-db:worker-effect-data-processing (2ms)
+2024-11-5 10:19:24-debug: asset-db-hook-engine-extends-afterRefresh (3ms)

@@ -1,0 +1,109 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "66307868-45a0-47fb-b558-3d0c4f4b0695",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "6d32f": {
+      "importer": "sprite-frame",
+      "uuid": "66307868-45a0-47fb-b558-3d0c4f4b0695@6d32f",
+      "displayName": "",
+      "id": "6d32f",
+      "name": "di",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 720,
+        "height": 1280,
+        "rawWidth": 720,
+        "rawHeight": 1280,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c1bb6b71-35c9-49ac-a2a0-edce6f7b242b@6c48a",
+        "atlasUuid": "66307868-45a0-47fb-b558-3d0c4f4b0695"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6afa": {
+      "importer": "sprite-frame",
+      "uuid": "66307868-45a0-47fb-b558-3d0c4f4b0695@b6afa",
+      "displayName": "",
+      "id": "b6afa",
+      "name": "tu",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": 1,
+        "trimX": 1,
+        "trimY": 1283,
+        "width": 457,
+        "height": 437,
+        "rawWidth": 513,
+        "rawHeight": 453,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c1bb6b71-35c9-49ac-a2a0-edce6f7b242b@6c48a",
+        "atlasUuid": "66307868-45a0-47fb-b558-3d0c4f4b0695"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "rankhuangjin.png",
+    "format": 3,
+    "uuid": "66307868-45a0-47fb-b558-3d0c4f4b0695",
+    "textureUuid": "c1bb6b71-35c9-49ac-a2a0-edce6f7b242b@6c48a"
+  }
+}

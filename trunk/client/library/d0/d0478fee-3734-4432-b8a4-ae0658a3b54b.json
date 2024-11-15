@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "zhifu",
+    "spriteFrames": [
+      "bianqianlv",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@11efb",
+      "biaoqianhong",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@d408f",
+      "duigou",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@0e035",
+      "jinbi1",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@a6e66",
+      "jinbi2",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@6b57e",
+      "jinbi3",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@991ca",
+      "jinbi4",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@b2762",
+      "jinbi5",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@3a2c6",
+      "jinbi6",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@25abb",
+      "jinbi7",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@a6d36",
+      "jinbi8",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@e108e",
+      "jinbi9",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@9dcac",
+      "lihe",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@7d703",
+      "tili",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@d7fd2",
+      "wupinkuang",
+      "d0478fee-3734-4432-b8a4-ae0658a3b54b@47a6d"
+    ]
+  }
+}

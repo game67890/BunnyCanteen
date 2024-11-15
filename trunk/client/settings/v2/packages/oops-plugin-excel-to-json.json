@@ -1,0 +1,8 @@
+{
+  "__version__": "1.0.0",
+  "PathExcel": "project://excel",
+  "PathJsonClient": "project://assets/resources/config/game",
+  "PathTsClient": "project://assets/scripts/framework/common/table",
+  "PathJsonServer": "project://server_config/server_json",
+  "PathTsServer": "project://server_config/server_ts/com/snkc/serverjsonbean"
+}

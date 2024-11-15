@@ -1,0 +1,109 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "ab4222ae-bd53-4807-a197-f3810e4705b0",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "6d32f": {
+      "importer": "sprite-frame",
+      "uuid": "ab4222ae-bd53-4807-a197-f3810e4705b0@6d32f",
+      "displayName": "",
+      "id": "6d32f",
+      "name": "di",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 720,
+        "height": 1280,
+        "rawWidth": 720,
+        "rawHeight": 1280,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "592d4401-9dde-49e2-8205-af8e08834e02@6c48a",
+        "atlasUuid": "ab4222ae-bd53-4807-a197-f3810e4705b0"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6afa": {
+      "importer": "sprite-frame",
+      "uuid": "ab4222ae-bd53-4807-a197-f3810e4705b0@b6afa",
+      "displayName": "",
+      "id": "b6afa",
+      "name": "tu",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": 0,
+        "trimX": 1283,
+        "trimY": 1,
+        "width": 451,
+        "height": 453,
+        "rawWidth": 513,
+        "rawHeight": 453,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "592d4401-9dde-49e2-8205-af8e08834e02@6c48a",
+        "atlasUuid": "ab4222ae-bd53-4807-a197-f3810e4705b0"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "rankbaiyin.png",
+    "format": 3,
+    "uuid": "ab4222ae-bd53-4807-a197-f3810e4705b0",
+    "textureUuid": "592d4401-9dde-49e2-8205-af8e08834e02@6c48a"
+  }
+}

@@ -1,0 +1,11 @@
+
+package com.snkc.serverjsonbean;
+
+public record Rank(
+    int id,
+    float upper,
+    float lower,
+    int canteenupper,
+    int canteenranklower) {
+}
+    

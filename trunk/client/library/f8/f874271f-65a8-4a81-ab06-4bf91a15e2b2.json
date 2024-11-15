@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "yaoqing",
+    "spriteFrames": [
+      "biaoqian",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@ba9cc",
+      "fenxiang",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@a4fe4",
+      "haoyoutiao",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@21807",
+      "jianglidi",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@7d8b2",
+      "lan",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@79373",
+      "lv",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@8ca5c",
+      "shenqingkuang",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@bfce4",
+      "zhuangshitu",
+      "f874271f-65a8-4a81-ab06-4bf91a15e2b2@3f0b9"
+    ]
+  }
+}

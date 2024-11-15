@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankzuanshi",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 722,
+      "height": 1723
+    },
+    "offset": {
+      "x": 0,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 722,
+      "height": 1725
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -361,
+        -861.5,
+        0,
+        361,
+        -861.5,
+        0,
+        -361,
+        861.5,
+        0,
+        361,
+        861.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        1725,
+        722,
+        1725,
+        0,
+        2,
+        722,
+        2
+      ],
+      "nuv": [
+        0,
+        0.0011594202898550724,
+        1,
+        0.0011594202898550724,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -361,
+        "y": -861.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 361,
+        "y": 861.5,
+        "z": 0
+      }
+    },
+    "texture": "da46961f-ea8c-4199-8ba1-266e438d6a42@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

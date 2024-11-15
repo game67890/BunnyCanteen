@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "shop",
+    "spriteFrames": [
+      "backtiao",
+      "2ccf8168-862f-4325-848c-c80fb4a878de@5b21b",
+      "hui",
+      "2ccf8168-862f-4325-848c-c80fb4a878de@90b85",
+      "lock",
+      "2ccf8168-862f-4325-848c-c80fb4a878de@d1068",
+      "shopdi",
+      "2ccf8168-862f-4325-848c-c80fb4a878de@7d1fa",
+      "tiao",
+      "2ccf8168-862f-4325-848c-c80fb4a878de@8dc7a",
+      "tuijian",
+      "2ccf8168-862f-4325-848c-c80fb4a878de@71964",
+      "xinxi",
+      "2ccf8168-862f-4325-848c-c80fb4a878de@14d9a"
+    ]
+  }
+}

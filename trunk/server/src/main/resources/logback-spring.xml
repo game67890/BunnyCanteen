@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="true">
+    <property name="LOGS" value="./logs" />
+    <appender name="Console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <Pattern>
+                %d{ISO8601} %-5level [%t] %C{1}: %msg%n%throwable
+            </Pattern>
+        </encoder>
+    </appender>
+    <appender name="RollingFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOGS}/spring-boot-logger.log</file>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <Pattern>%d %p %C{1} [%t] %m%n</Pattern>
+        </encoder>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <!-- rollover daily -->
+            <fileNamePattern>${LOGS}/archived/spring-boot-logger-%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <!-- each file should be at most 100MB, keep 60 days worth of history, but at most 20GB -->
+            <maxFileSize>100MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>20GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <appender name="LogFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOGS}/ton_server.log</file>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <Pattern>%m%n</Pattern>
+        </encoder>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <!-- rollover daily -->
+            <fileNamePattern>${LOGS}/logback/ton_server-%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <!-- each file should be at most 200MB, keep 180 days worth of history, but at most 20GB -->
+            <maxFileSize>200MB</maxFileSize>
+            <maxHistory>180</maxHistory>
+            <totalSizeCap>20GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+    <!-- LOG everything at INFO level -->
+    <root level="info">
+        <appender-ref ref="RollingFile" />
+        <appender-ref ref="Console" />
+    </root>
+
+    <!-- LOG "com.baeldung*" at TRACE level -->
+    <logger name="com.baeldung" level="trace" additivity="false">
+        <appender-ref ref="RollingFile" />
+        <appender-ref ref="Console" />
+    </logger>
+
+    <logger name="com.snkc.log.TonGameLogManager" level="INFO" additivity="false">
+        <appender-ref ref="LogFile" />
+        <appender-ref ref="Console" />
+    </logger>
+
+    <!-- 请求-响应日志打印开关 -->
+    <logger name="com.snkc.filter.RequestLogFilter" level="ON" />
+</configuration>

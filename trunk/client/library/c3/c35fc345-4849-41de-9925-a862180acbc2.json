@@ -1,0 +1,709 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "GiftBox",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "json": {
+    "1": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        1000,
+        0,
+        0
+      ]
+    },
+    "2": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        1000,
+        0,
+        0
+      ]
+    },
+    "3": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        1000,
+        0,
+        0
+      ]
+    },
+    "4": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        900,
+        100,
+        0
+      ]
+    },
+    "5": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        800,
+        100,
+        100
+      ]
+    },
+    "6": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        500,
+        300,
+        200
+      ]
+    },
+    "7": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "8": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        100,
+        200,
+        700
+      ]
+    },
+    "9": {
+      "time": 60,
+      "numlimit": 20,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "10": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "11": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "12": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "13": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        1,
+        2,
+        3
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "14": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        2,
+        3,
+        4
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "15": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        2,
+        3,
+        4
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "16": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        3,
+        4,
+        5
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "17": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        3,
+        4,
+        5
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "18": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        4,
+        5,
+        6
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "19": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        4,
+        5,
+        6
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "20": {
+      "time": 60,
+      "numlimit": 25,
+      "foodlevel1": [
+        5,
+        6,
+        7
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "21": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        5,
+        6,
+        7
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "22": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        5,
+        6,
+        7
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "23": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        5,
+        6,
+        7
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "24": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        5,
+        6,
+        7
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "25": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        5,
+        6,
+        7
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "26": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        5,
+        6,
+        7
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "27": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        6,
+        7,
+        8
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "28": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        6,
+        7,
+        8
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "29": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        6,
+        7,
+        8
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "30": {
+      "time": 50,
+      "numlimit": 25,
+      "foodlevel1": [
+        6,
+        7,
+        8
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "31": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        7,
+        8,
+        9
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "32": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        7,
+        8,
+        9
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "33": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        7,
+        8,
+        9
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "34": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        7,
+        8,
+        9
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "35": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        8,
+        9,
+        10
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "36": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        8,
+        9,
+        10
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "37": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        8,
+        9,
+        10
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "38": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        8,
+        9,
+        10
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "39": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        9,
+        10,
+        11
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "40": {
+      "time": 50,
+      "numlimit": 30,
+      "foodlevel1": [
+        9,
+        10,
+        11
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "41": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        9,
+        10,
+        11
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "42": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        9,
+        10,
+        11
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "43": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        10,
+        11,
+        12
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "44": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        10,
+        11,
+        12
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "45": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        10,
+        11,
+        12
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "46": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        10,
+        11,
+        12
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "47": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        11,
+        12,
+        13
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "48": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        11,
+        12,
+        13
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "49": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        11,
+        12,
+        13
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    },
+    "50": {
+      "time": 40,
+      "numlimit": 30,
+      "foodlevel1": [
+        11,
+        12,
+        13
+      ],
+      "probably1": [
+        200,
+        500,
+        300
+      ]
+    }
+  }
+}

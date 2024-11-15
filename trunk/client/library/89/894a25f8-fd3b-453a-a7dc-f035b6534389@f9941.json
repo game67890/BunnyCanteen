@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankbaijin",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 722,
+      "height": 1699
+    },
+    "offset": {
+      "x": 0,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 722,
+      "height": 1701
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -361,
+        -849.5,
+        0,
+        361,
+        -849.5,
+        0,
+        -361,
+        849.5,
+        0,
+        361,
+        849.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        1701,
+        722,
+        1701,
+        0,
+        2,
+        722,
+        2
+      ],
+      "nuv": [
+        0,
+        0.0011757789535567313,
+        1,
+        0.0011757789535567313,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -361,
+        "y": -849.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 361,
+        "y": 849.5,
+        "z": 0
+      }
+    },
+    "texture": "894a25f8-fd3b-453a-a7dc-f035b6534389@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

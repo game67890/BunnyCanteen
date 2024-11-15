@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "loading",
+    "spriteFrames": [
+      "back",
+      "0808762c-6d60-455f-a2ab-26ad7bca1730@40c10",
+      "jindudi",
+      "0808762c-6d60-455f-a2ab-26ad7bca1730@23e72",
+      "logo",
+      "0808762c-6d60-455f-a2ab-26ad7bca1730@9e5d2",
+      "tiao",
+      "0808762c-6d60-455f-a2ab-26ad7bca1730@8dc7a"
+    ]
+  }
+}

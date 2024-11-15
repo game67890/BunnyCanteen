@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "RadishAwardRank",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "json": {
+    "1": {
+      "minrank": 1,
+      "maxrank": 1,
+      "awardpercent": "0.5"
+    },
+    "2": {
+      "minrank": 2,
+      "maxrank": 2,
+      "awardpercent": "0.28"
+    },
+    "3": {
+      "minrank": 3,
+      "maxrank": 3,
+      "awardpercent": "0.12"
+    },
+    "4": {
+      "minrank": 10,
+      "maxrank": 4,
+      "awardpercent": "0.06"
+    },
+    "5": {
+      "minrank": 50,
+      "maxrank": 11,
+      "awardpercent": "0.03"
+    },
+    "6": {
+      "minrank": 100,
+      "maxrank": 51,
+      "awardpercent": "0.01"
+    }
+  }
+}

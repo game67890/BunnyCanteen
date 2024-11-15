@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "InvitedUserRank",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "json": {
+    "1": {
+      "CarrotCoinNum": 6
+    },
+    "2": {
+      "CarrotCoinNum": 12
+    },
+    "3": {
+      "CarrotCoinNum": 24
+    },
+    "4": {
+      "CarrotCoinNum": 48
+    },
+    "5": {
+      "CarrotCoinNum": 96
+    }
+  }
+}

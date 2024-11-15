@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<namespace name="baluobo">
+    <!-- 面板 点主界面的按钮-->
+    <protocol name="cpanel" >
+    </protocol>
+
+    <protocol name="spanel" >
+        <variable name="idx" type="int" /> 排名 -1代表没有排名
+        <variable name="weight" type="int" /> 重量
+    </protocol>
+
+
+    <!-- 排行榜面板-->
+    <protocol name="crankpanel" >
+    </protocol>
+    <bean name="rankInfo">
+        <variable name="idx" type="int"/> 排名
+        <variable name="userID" type="string"/> 玩家ID
+        <variable name="name" type="string"/> 玩家名字
+        <variable name="weight" type="int"/>
+    </bean>
+
+    <protocol name="srankpanel" >
+        <variable name="list" type="vector" value="rankInfo"/> 排行具体数据
+    </protocol>
+
+
+    <!-- 拔萝卜 自动也是客户端自己发这个-->
+    <protocol name="cbaluobo" >
+        <variable name="times" type="int" /> 一次拔几个
+    </protocol>
+
+    <bean name="baLuoBoInfo">
+        <variable name="time" type="int"/> 拔萝卜获得的时间
+        <variable name="confId" type="int"/> RadishAwardWeight 表的id
+    </bean>
+
+    <protocol name="sbaluobo" >
+        <variable name="dataList" type="vector" value="baLuoBoInfo"/> 拔萝卜的结果
+        <variable name="idx" type="int" /> 排名 -1代表没有排名
+        <variable name="weight" type="int" /> 重量
+    </protocol>
+</namespace>

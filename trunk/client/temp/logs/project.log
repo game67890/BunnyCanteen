@@ -1,0 +1,51 @@
+2024-11-14 14:40:46 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine
+2024-11-14 14:40:48 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,intersection-2d,meshopt,physics-2d-builtin,profiler,spine,tween,ui,webview)
+2024-11-14 14:40:48 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\native
+2024-11-14 14:40:51 - log: Request namespace: device-list
+2024-11-14 14:42:22 - log: [Scene] meshopt wasm decoder initialized
+2024-11-14 14:42:22 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2024-11-14 14:42:22 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2024-11-14 14:42:23 - log: [Scene] [PHYSICS]: using builtin.
+2024-11-14 14:42:25 - log: [Scene] Cocos Creator v3.8.3
+2024-11-14 14:42:25 - info: [Scene] Forward render pipeline initialized.
+2024-11-14 14:42:26 - warn: [Scene] No needs to indicate the 'cc.Boolean' attribute for "full_screen_adapter.showAll", which its default value is type of Boolean.Error: [Scene] No needs to indicate the 'cc.Boolean' attribute for "full_screen_adapter.showAll", which its default value is type of Boolean.
+    at warn (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160118:12)
+    at warnID (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160300:5)
+    at Array.eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:273445:11)
+    at defineProp (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:140922:27)
+    at declareProperties (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141083:11)
+    at CCClass (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141108:5)
+    at eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:272931:21)
+2024-11-14 14:42:26 - warn: [Scene] No needs to indicate the 'cc.Boolean' attribute for "VirtualGridList.useVirtualLayout", which its default value is type of Boolean.Error: [Scene] No needs to indicate the 'cc.Boolean' attribute for "VirtualGridList.useVirtualLayout", which its default value is type of Boolean.
+    at warn (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160118:12)
+    at warnID (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160300:5)
+    at Array.eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:273445:11)
+    at defineProp (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:140922:27)
+    at declareProperties (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141083:11)
+    at CCClass (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141108:5)
+    at eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:272931:21)
+2024-11-14 14:42:26 - warn: [Scene] No needs to indicate the 'cc.Boolean' attribute for "VirtualGridList.cacheImage", which its default value is type of Boolean.Error: [Scene] No needs to indicate the 'cc.Boolean' attribute for "VirtualGridList.cacheImage", which its default value is type of Boolean.
+    at warn (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160118:12)
+    at warnID (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160300:5)
+    at Array.eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:273445:11)
+    at defineProp (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:140922:27)
+    at declareProperties (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141083:11)
+    at CCClass (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141108:5)
+    at eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:272931:21)
+2024-11-14 14:42:26 - warn: [Scene] No needs to indicate the 'cc.String' attribute for "VirtualGridList.emptyTip", which its default value is type of String.Error: [Scene] No needs to indicate the 'cc.String' attribute for "VirtualGridList.emptyTip", which its default value is type of String.
+    at warn (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160118:12)
+    at warnID (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:160300:5)
+    at Array.eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:273445:11)
+    at defineProp (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:140922:27)
+    at declareProperties (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141083:11)
+    at CCClass (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141108:5)
+    at eval (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:272931:21)
+2024-11-14 14:42:27 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to builtin.
+2024-11-14 14:46:03 - error: Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: Invalid guestInstanceId: 6
+    at getGuestForWebContents (electron/js2c/browser_init.js:181:6307)
+    at electron/js2c/browser_init.js:181:5372
+    at electron/js2c/browser_init.js:181:1637
+    at electron/js2c/browser_init.js:197:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9782)
+    at Object.emit (events.js:315:20)
+    at Object.emit (domain.js:467:12)

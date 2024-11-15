@@ -1,0 +1,58 @@
+{
+  "path": {
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\hecheng\\hecheng.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\hecheng\\hecheng.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\pay\\shangpin.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\pay\\shangpin.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\loading\\loading.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\loading\\loading.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankbaijin\\rankbaijin.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankbaijin\\rankbaijin.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankbaiyin\\rankbaiyin.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankbaiyin\\rankbaiyin.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankhuangjin\\rankhuangjin.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankhuangjin\\rankhuangjin.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankqingtong\\rankqingtong.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankqingtong\\rankqingtong.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankzuanshi\\rankzuanshi.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rankzuanshi\\rankzuanshi.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\shop\\shop.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\shop\\shop.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\yaoqing\\yaoqing.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\yaoqing\\yaoqing.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\baluobo\\baluobo.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\baluobo\\baluobo.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rank\\rank.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\rank\\rank.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\chengjiu\\chengjiu.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\chengjiu\\chengjiu.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\hecheng\\caipin.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\hecheng\\caipin.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\ranksmall\\ranksmall.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\ranksmall\\ranksmall.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\main\\main.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\main\\main.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\zhifu\\zhifu.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\zhifu\\zhifu.png"
+    ],
+    "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\tongyong\\tongyong.plist": [
+      "F:\\TON-Game\\src\\trunk\\client\\assets\\resources\\textures\\UI\\tongyong\\tongyong.png"
+    ]
+  }
+}

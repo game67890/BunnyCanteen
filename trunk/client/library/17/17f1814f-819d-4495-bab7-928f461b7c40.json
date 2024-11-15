@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "baluobo",
+    "spriteFrames": [
+      "back",
+      "17f1814f-819d-4495-bab7-928f461b7c40@40c10",
+      "chanzi",
+      "17f1814f-819d-4495-bab7-928f461b7c40@6f7a3",
+      "jinbidi",
+      "17f1814f-819d-4495-bab7-928f461b7c40@d131a",
+      "liwu",
+      "17f1814f-819d-4495-bab7-928f461b7c40@562e4",
+      "luobo",
+      "17f1814f-819d-4495-bab7-928f461b7c40@6a8a6",
+      "rank",
+      "17f1814f-819d-4495-bab7-928f461b7c40@62165",
+      "shouhuodi",
+      "17f1814f-819d-4495-bab7-928f461b7c40@83058",
+      "titledi",
+      "17f1814f-819d-4495-bab7-928f461b7c40@3513f",
+      "tubia",
+      "17f1814f-819d-4495-bab7-928f461b7c40@c2863",
+      "xiantiao",
+      "17f1814f-819d-4495-bab7-928f461b7c40@ea68e",
+      "zidong",
+      "17f1814f-819d-4495-bab7-928f461b7c40@348cd",
+      "zidong1",
+      "17f1814f-819d-4495-bab7-928f461b7c40@9a0d1"
+    ]
+  }
+}

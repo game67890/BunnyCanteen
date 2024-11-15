@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "ranksmall",
+    "spriteFrames": [
+      "baijin",
+      "b1c2b054-718e-4d3c-90ca-fbb23b1be9d5@8bda6",
+      "baiyin",
+      "b1c2b054-718e-4d3c-90ca-fbb23b1be9d5@dca39",
+      "huangjin",
+      "b1c2b054-718e-4d3c-90ca-fbb23b1be9d5@d4a3f",
+      "qingtong",
+      "b1c2b054-718e-4d3c-90ca-fbb23b1be9d5@f00d7",
+      "zuanshi",
+      "b1c2b054-718e-4d3c-90ca-fbb23b1be9d5@8fbcd"
+    ]
+  }
+}

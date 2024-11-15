@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 兔子币 和 餐厅等级的排行 -->
+<namespace name="paihang">
+    <!-- 请求排行  -->
+    <protocol name="cranklist">
+    	   	<variable name="rankType" type="int" /> 1 兔子币榜  2 餐厅等级榜
+          	<variable name="rankConfId" type="int" /> rank.xls表的id 要那个段位
+    </protocol>
+
+    <bean name="rankInfo">
+        <variable name="idx" type="int"/> 排名
+        <variable name="name" type="string"/> 玩家名字
+        <variable name="param" type="int"/> 对应榜的数 兔子币榜就是兔子币
+        <variable name="userId" type="string"/> 玩家id
+    </bean>
+    <protocol name="sranklist" >
+        <variable name="rankTyppe" type="int" /> 1 兔子币榜  2 餐厅等级榜
+        <variable name="rankConfId" type="int" /> rank.xls表的id 要那个段位
+
+        <variable name="list" type="vector" value="rankInfo"/> 排行具体数据
+
+        <variable name="myInfo" type="RankInfo" /> 发起请求玩家自己的信息
+
+        <variable name="allUserNumber" type="int" /> 所以玩家的数量
+
+    </protocol>
+</namespace>

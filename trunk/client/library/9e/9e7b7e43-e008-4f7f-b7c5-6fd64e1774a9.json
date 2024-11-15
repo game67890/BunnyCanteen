@@ -1,0 +1,159 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "SoundEffects",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "json": {
+    "1": {
+      "soundpath": "audios/mixkit-hard-shovel-stab-1923",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "2": {
+      "soundpath": "audios/25774087_MotionElements_diamond-collect-04",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "3": {
+      "soundpath": "audios/money",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "4": {
+      "soundpath": "audios/ttsmaker-file-2024-10-24-16-37-24",
+      "loop": 0,
+      "volume": 0.6
+    },
+    "5": {
+      "soundpath": "audios/ttsmaker-file-2024-10-24-16-34-35",
+      "loop": 0,
+      "volume": 0.6
+    },
+    "6": {
+      "soundpath": "audios/ttsmaker-file-2024-10-24-16-38-58",
+      "loop": 0,
+      "volume": 0.6
+    },
+    "7": {
+      "soundpath": "audios/ttsmaker-file-2024-10-24-16-40-46",
+      "loop": 0,
+      "volume": 0.6
+    },
+    "8": {
+      "soundpath": "audios/mixkit-chopping-food-on-the-table-134",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "9": {
+      "soundpath": "audios/mixkit-a-couple-of-glasses-clink-154",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "10": {
+      "soundpath": "audios/mixkit-pouring-soda-in-a-glass-2833",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "11": {
+      "soundpath": "audios/mixkit-dropping-ice-into-a-glass-2834",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "12": {
+      "soundpath": "audios/ttsmaker-file-2024-10-24-16-46-19",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "13": {
+      "soundpath": "audios/ttsmaker-file-2024-10-24-16-45-44",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "14": {
+      "soundpath": "audios/ttsmaker-file-2024-10-24-16-47-12",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "15": {
+      "soundpath": "audios/down",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "16": {
+      "soundpath": "audios/purchase-succesful-ingame-230550",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "17": {
+      "soundpath": "audios/ui-bubble-click-gfx-sounds-high-2-00-00",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "18": {
+      "soundpath": "audios/mixkit-game-ball-tap-2073",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "19": {
+      "soundpath": "audios/mixkit-game-balloon-or-bubble-pop-3069",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "20": {
+      "soundpath": "audios/mixkit-score-casino-counter-1998",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "21": {
+      "soundpath": "audios/mixkit-soap-bubble-sound-2925",
+      "loop": 0,
+      "volume": 0.35
+    },
+    "22": {
+      "soundpath": "audios/mixkit-you-got-jazz-528",
+      "loop": 1,
+      "volume": 0.08
+    },
+    "23": {
+      "soundpath": "audios/mixkit-its-april-847",
+      "loop": 1,
+      "volume": 0.3
+    },
+    "24": {
+      "soundpath": "audios/mixkit-fun-at-the-farm-1063",
+      "loop": 1,
+      "volume": 0.6
+    },
+    "25": {
+      "soundpath": "audios/page-flip-47177",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "26": {
+      "soundpath": "audios/button-pressed-38129",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "27": {
+      "soundpath": "audios/poit-94911",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "28": {
+      "soundpath": "audios/STREAMING-cartoon-game-opens-potion-ni-sound-1-00-03",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "29": {
+      "soundpath": "audios/STREAMING-winner-orchestra-logo-epic-stock-media-2-2-00-04",
+      "loop": 0,
+      "volume": 0.5
+    },
+    "30": {
+      "soundpath": "audios/rock-structure-collapsing-small-smartsound-fx-1-00-02",
+      "loop": 0,
+      "volume": 1
+    }
+  }
+}

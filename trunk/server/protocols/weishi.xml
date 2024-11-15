@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 喂食-->
+<namespace name="weishi">
+    <!-- 购买 -->
+    <protocol name="cweishi">
+    	   	<variable name="confId" type="int" /> 策划表id 回发给客户端
+          	<variable name="count" type="int" /> 要扣多少萝卜币
+    </protocol>
+
+    <protocol name="sweishi" >
+     		<variable name="confId" type="int" /> 策划表id 回发给客户端
+         	<variable name="count" type="int" /> 要扣多少萝卜币
+    </protocol>
+</namespace>

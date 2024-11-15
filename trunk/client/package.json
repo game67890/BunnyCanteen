@@ -1,0 +1,10 @@
+{
+  "name": "client",
+  "uuid": "f301b32e-5c25-4d1c-a34d-db46dc1cd379",
+  "creator": {
+    "version": "3.8.3"
+  },
+  "dependencies": {
+    "crypto-es": "^1.2.7"
+  }
+}
